@@ -1,0 +1,46 @@
+body {
+    color: hsl(246, 76%, 59%);
+    background: hsl(266, 77%, 47%);
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px hsl(0, 87%, 50%);
+    padding: 20px;
+    font-size: 32px;
+    color: #ec59bb;
+}
+
+.chamada {
+    background: hsl(221, 79%, 54%);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #e399ec;
+    color: hsl(207, 100%, 78%);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+footer p {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 3px;
+}
